@@ -1,14 +1,14 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://doc2.br0el/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'br0el', // Usually your GitHub org/user name.
+  projectName: 'whatisdero', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'What is Dero',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
