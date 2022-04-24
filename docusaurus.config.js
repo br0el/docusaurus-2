@@ -1,6 +1,6 @@
 module.exports = {
   title: 'My Site',
-  tagline: 'The tagline of my site',
+  tagline: 'What is Dero?',
   url: 'http://doc2.br0el/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
